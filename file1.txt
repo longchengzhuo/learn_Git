@@ -5,3 +5,4 @@ a5修复完成
 学习git，阶段性结束
 
 learn pr
+use claude to create pr
